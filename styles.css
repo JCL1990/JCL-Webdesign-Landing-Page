@@ -2,6 +2,7 @@ body {
     background-color: navy;
     font-family: "Roboto";
     max-width: 100%;
+    width: 100vw;
 
 }
 
@@ -64,6 +65,7 @@ ul {
     filter: drop-shadow(-5px 5px 5px);
     text-decoration: underline;
     padding: 2px;
+    margin: auto;
 
 
 }
